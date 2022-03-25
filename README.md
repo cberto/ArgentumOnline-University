@@ -1,7 +1,11 @@
-# ¡A jugar! 
+<div align="center">
+  
+# ¡A jugar!  Juego realizado con la biblioteca Wollok Game
 
-## Juego realizado con la biblioteca Wollok Game
+ 
 ![image](https://media.giphy.com/media/PAFmlWCsSrWuWNhW2T/giphy.gif)
+  
+</div> 
 
 # Resumen:
 Juego creado con la biblioteca Wollok Game para la materia Objetos 1, Licenciatura en Informática de la Universidad de Hurlingham, Bs As, Argentina - Segundo cuatrimestre año 2021.
@@ -10,7 +14,14 @@ Juego creado con la biblioteca Wollok Game para la materia Objetos 1, Licenciatu
 
 ### Copyright gráficos y sonidos:
 
+<img align='right' src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/be4ca691-6955-4140-9557-bdab8990fd91/d7rws92-6b4ef4fd-0558-4333-819f-807144c14902.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JlNGNhNjkxLTY5NTUtNDE0MC05NTU3LWJkYWI4OTkwZmQ5MVwvZDdyd3M5Mi02YjRlZjRmZC0wNTU4LTQzMzMtODE5Zi04MDcxNDRjMTQ5MDIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iUc2RwlH1b3VATeKVvNGtY_phl9hIzGYfw60QzwxRf4" width="400">
+
 ¡El maravilloso http://wiki.comunidadargentum.com/ fue nuestra fuente principal!
+
+
+
+
+
 Y la mano mágica de nuestro compañero que armó las pantallas y retocó elementos.
 
 ### General
@@ -23,7 +34,7 @@ Y la mano mágica de nuestro compañero que armó las pantallas y retocó elemen
 - Se necesita energía (contador azul con rayo) para caminar, si llega a cero pierde. La energía se obtiene comiendo los pollos que aparecen en el tablero. Son pocos ¡aprovechá bien la energía disponible!
 
 - Desde el nivel 2 también es necesario cuidar la vida (contador rojo con corazón). Juntar oro en el nivel 2 quita puntos de vida, y chocar con los monstruos del nivel 3 también. Si se llega a cero, pierde. Se puede juntar energía con los brebajes disponibles.
-- 
+
 **Elementos sorpresa**
 - Hay elementos sorpresa diseminados por el tablero. Algunos quitan energía. Otros te teletransportan. Otros hacen aparecer más pollos o te dan energía. ¿Te arriesgás?
 <details>
@@ -65,7 +76,7 @@ El objetivo del nivel 2 es buscar todos los oros. ¡Ojo con la vida y la energí
 
 El nivel 3 es el último nivel. Aparecen los monstruos y fantasmas. Se los mata con flechas... ¡Ojo que se empieza con 0 flechas!.. Los fantasmas se mueven de manera aleatoria por el tablero, pero los dos monstruos mayores te van a perseguir a donde sea que vayas. Si te chocan, te quitan puntos de vida... y pueden matarte! Cuando lográs matar un monstruo, una flecha aparece en algún lugar del tablero para que la puedas agarrar. Ojo que si te quedás sin flechas y no hay más en el tablero, no hay forma de matar a los monstruos!
 
------
+
 
 ## Acerca de:
 
@@ -78,6 +89,9 @@ Versión de wollok:
 **Fecha**: Noviembre 2021
 
 [Guía de herramientas](https://www.wollok.org/documentacion/conceptos/)
+
+
+------
 
 
 
